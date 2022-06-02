@@ -1,5 +1,8 @@
 # openSAP-ui5-course
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/openSAP-ui5-course)](https://api.reuse.software/info/github.com/SAP/openSAP-ui5-course)
+
+
 This repository contains the **solutions for both openSAP SAPUI5 courses**.
 
 |   Evolved Web Apps with SAPUI5 (ui52)  |   Developing Web Apps with SAPUI5 (ui51)  |
@@ -98,4 +101,4 @@ Thank you,
 
 ## License
 
-All example code in this repository is licensed under the Apache Software License, Version 2.0 except as noted otherwise in the [LICENSE](https://github.com/SAP/openSAP-ui5-course/blob/master/LICENSE) file.
+All example code in this repository is licensed under the [Apache Software License, Version 2.0](https://github.com/SAP/openSAP-ui5-course/blob/master/LICENSE).
