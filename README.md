@@ -1,3 +1,12 @@
+# Deprecation and Archival Notice
+
+This public repository is no longer maintained and has been archived.
+In case you have inquiries about the state of this repository, please reach out to ospo@sap.com.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 # openSAP-ui5-course
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/openSAP-ui5-course)](https://api.reuse.software/info/github.com/SAP/openSAP-ui5-course)
